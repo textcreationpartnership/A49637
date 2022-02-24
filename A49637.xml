@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last memorial of the agent from the K. of Poland, to the Salamanca Dr.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49637</idno>
+            <idno type="STC">Wing L490</idno>
+            <idno type="STC">ESTC R16637</idno>
+            <idno type="EEBO-CITATION">12210078</idno>
+            <idno type="OCLC">ocm 12210078</idno>
+            <idno type="VID">56268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56268)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 765:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last memorial of the agent from the K. of Poland, to the Salamanca Dr.</title>
+                  <author>Oates, Titus, 1649-1705.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.H.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in British Museum.</note>
+                  <note>A satire addressed to Titus Oates on the Popish Plot.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:56268:1"/>
+            <head>The laſt MEMORIAL of the Agent from the K. of <hi>POLAND,</hi> to the SALAMANCA D<hi rend="sup">R.</hi>
+            </head>
+            <opener>
+               <salute>My Learned Chaplain,</salute>
+            </opener>
+            <p>FOreſeeing many Hours are not allotted me to remain in my Earthly Tabernacle I judged it requiſite to impart my Sentiments to Thee before my <hi>Exit.</hi>
+            </p>
+            <p>Ah Friend! If <hi>Thy Self,</hi> thy <hi>Father,</hi> and old <hi>Ezrael Tonge,</hi> &amp;c. in 1678. (inſtead of honeſt <hi>K. K.</hi>) had made a timely application to Me, after you bugger'd out your ill favour'd and imperfect <hi>Embryo</hi> at <hi>Fox-hall</hi> and in <hi>Fulwoods Rents,</hi> I could have lickt the uncouth <hi>Cub</hi> into a much more gainly and Gentile Form, that would have made the People Moon-blind, and transform'd them into ſuch confounded Aſſes, that they might have been Bridled, Saddled, and Rid as your good pleaſure ſhould have deem'd convenient; yea, and have ſtriven with all their Might and Main to have loſt their <hi>Liberty, Property</hi> and <hi>Religion,</hi> and like egregious Sots and Coxcombs wilfully to thruſt their Necks into a certain Nooſe of Eternal Slavery and Confuſion,</p>
+            <p>If this notorious <hi>Tragi-comedy</hi> had been firſt reviſed and corrected by my expe<g ref="char:EOLhyphen"/>rienc'd Hand, I ſhould have imbeliſhed it with moſt curious Touches, and <hi>England</hi> at this day had ſeen many fair <hi>Commiſſions</hi> Sealed I<hi rend="sup">S</hi>H, and Signed <hi>Johannes Paulus d'Oliva;</hi> But Ye, like a Triumvirate of ſilly <hi>Tubsters,</hi> had not the Brains to conſi<g ref="char:EOLhyphen"/>der, that One <hi>Commiſſion</hi> would have been a Scene ſuperiour to any in your <hi>Farſe,</hi> and have far out-done thoſe <hi>Letters,</hi> which (unknown to You) gave you Reputation.</p>
+            <p>If my Hand had been earlier at the Oar, Dear <hi>Doctor,</hi> thy <hi>Forty Thouſand Pil<g ref="char:EOLhyphen"/>grims</hi> and their <hi>Black Bills</hi> had not now been inviſible, nor thy numberleſs <hi>Drury-Lane Daggers</hi> been believ'd <hi>Non-Entities,</hi> nor thy <hi>Doctorhood</hi> at <hi>Salamanca</hi> a very Ridicule, nor the Illuſtrious <hi>Don John</hi> of <hi>Auſtria</hi> a <hi>Tall Fair Man;</hi> Neither had thy worthy <hi>Father</hi> at this day ſold <hi>Pies</hi> at the <hi>Half Moon</hi> in <hi>Bloomsbury,</hi> (where he died,) nor thy little Brother boyl'd <hi>Rumps of Mutton</hi> in <hi>Red-croſs-ſtreet,</hi> nor Sea Bully <hi>Sam</hi> enter'd the Appartments of the Scolds in <hi>Long-ditch.</hi>
+            </p>
+            <p>If Ye had attended Me when Ye ought, no Mortal durſt now have averred, that there never was ſuch a Man as Father <hi>Strange</hi> the <hi>Jeſuit,</hi> who ſo candedly and frankly unboſom'd himſelf, and (as <hi>Gabriel</hi> to <hi>Mahomet</hi>) reveal'd to Thee the mighty Myſteries of thy <hi>Alcoran,</hi> which <hi>T. Sm.</hi> of the <hi>Temple</hi> digeſted into things call'd <hi>Depoſitions,</hi> or rather Stories of <hi>Cocks</hi> and <hi>Bulls,</hi> and Parſon <hi>Jones</hi> prefix'd the <hi>Epiſtle,</hi> and call'd it by the name of <hi>Narrative:</hi> This was the Sire to numerous hopeful Babes of the ſame Name and Nature, and Grand-ſire to the admired <hi>Nar<g ref="char:EOLhyphen"/>rantine</hi> of thy Renowned Brother the Ingenious <hi>Eustace Comins;</hi> So, as thy prudent Predeceſſor <hi>Mahomet,</hi> the Impoſtor, had a juggling <hi>Jew</hi> and a miſchievous <hi>Monk;</hi> Thou hadſt a diſcontented <hi>Law-man,</hi> and a diſcarded <hi>Naval Chaplain</hi> thy Co-adju<g ref="char:EOLhyphen"/>tors; yet the veryeſt Logger-head in the Three Nations will never account Thee a <hi>Prophet;</hi> or a <hi>Saviour</hi> worth a Farthing.</p>
+            <p>I was conſtrain'd to flie my Countrey in order to preſerve my Neck, and to take Sanctuary in that very <hi>Carthage,</hi> I formerly <hi>took Meaſures</hi> to have deſtroy'd. Oh! let my <hi>Speech</hi> to the <hi>Lords</hi> and <hi>Commons</hi> be blotted out of the Records of Time! Oh! may my <hi>Delenda est</hi> Carthago, <hi>[Amsterdam must be Damn'd,]</hi> never be re<g ref="char:EOLhyphen"/>membred by <hi>Butter-boxes</hi> of this or the next Age! Oh! may my Country-men never revert upon Me <hi>Delenda eſt</hi> Septonia, <hi>S—y</hi> muſt be ſent to the Devil!</p>
+            <p>My not being ſoon enough acquainted with thy Intrigue, is the certain ſource of all our miſeries and misfortunes; That broke and diſlocated all Meaſures. The World remembers well, after I became thy Patron and Pilot, how ſmoothly we all ſham'd the Publick; how quickly thou attainedſt 12 <hi>l.</hi> a week, to feed a numerous gang of <hi>Rebels</hi> and <hi>Sedition-mongers,</hi> with a Sett of antiquated <hi>Ruffians,</hi> and Beard<g ref="char:EOLhyphen"/>leſs <hi>Buggeroons</hi> to attend thy Tail; Any Mortal that would not believe thy <hi>Affidavit,</hi> and make thy <hi>Plot</hi> his <hi>Creed,</hi> was forthwith put into it, or into as had a condition; No Man was ſecure in his Bed, no Man's Life was his own; 'twas Peace, but a Peace
+<pb n="2" facs="tcp:56268:2" rendition="simple:additions"/>as dangerous as War; for the malitious Oath of any <hi>Flagitious Villain,</hi> was ſufficient to ſend a Man to the <hi>Gallows,</hi> and to Carve out his Carkaſe for Crows-meat. Then was the time of great <hi>Miracles,</hi> and ſtupendious <hi>Faith;</hi> Men believ'd every thing; Not a Sooty Chimney took Flame without a <hi>Popiſh Fire-ball;</hi> not an idle Fanatick could run from his Creditors, ſlip into a corner with a Wench, <hi>&amp;c.</hi> but 'twas re<g ref="char:EOLhyphen"/>ported he was ſnatcht away by ſome <hi>Papiſt,</hi> and ſent into another world; The <hi>French</hi> with innumerable Ships and Boats deſcended out of the Moon, and ſubdu'd the Iſle of <hi>Purbeck; W. Bedloe</hi> travers'd <hi>Spain, France</hi> &amp; <hi>Flanders</hi> in the <hi>Marſhalſea,</hi> was wonderfully convey'd from <hi>Bristol</hi> to make ſtrange Diſcoveries, and from a very great Rogue ſuddenly transform'd into a Man of Virtue and Integrity. <hi>Prance</hi> by an admirable Providence, confeſs'd, deny'd, and declar'd great things. <hi>Brigades</hi> of Horſe in bright Armour by Moon-light <hi>Aſſociated</hi> under a Hedge to Aſſaſſinate my Lordſhip, but were prevented by a <hi>Miracle.</hi> Then were deep Secrets drag'd out of the Bowels of the Midwives <hi>Meal-Tub,</hi> and 300 <hi>Wolves,</hi> 300 <hi>Letters,</hi> and as many Suits of Cloaths found in the Inchanted Chamber of Col. <hi>Manſel;</hi> The <hi>Wolves</hi> were ſlain by his own Hand; The <hi>Letters</hi> ſent to <hi>Carolina</hi> by <hi>Tom Merry,</hi> and the Cloaths were reſerv'd for the Col's own wearing; But thoſe Commiſſions <hi>Waller</hi> and He had in their cuſtody, are not yet come to light. Then thon didſt wiſely re-collect thy ſelf, that thou hadſt ſeen 2 or 3 <hi>Blue Garters</hi> through 4 Key-holes.</p>
+            <p>By this time ſome of the <hi>Greateſt perſons</hi> in the three Kingdoms were entangled one way or other in the Plot; the next thing was to make it glance upon the King Himſelf: Firſt we contrived to pluck the Kingdoms Sword out of His hands; to get the <hi>Militia</hi> from Him; then to ſteal away His other Sword from His ſide, to Indict His <hi>Guards</hi> upon an obſoleted Statute, as Ryoters and Routers, Theſe meane failing, we ſtirred up Legions of Factious Fellows to Petition Him for a <hi>Parliament;</hi> that trick not doing the feat, we cauſed many poyſonous <hi>Libels</hi> to be made upon Him, and very carefully diſperſt; next we Printed Treaſonable <hi>Pictures</hi> and Pen'd ob<g ref="char:EOLhyphen"/>ſcene <hi>Ballads</hi> ſtuft full of Sedition and moſt malitious Ribaldry; as the <hi>Raree-ſhew,</hi> and many others; Theſe we diligently caſt abroad, and ordered our Penſioners <hi>Aaron Smith, Stephen Colledge, S. harris, Bedlow, Dangerfield</hi> Brother <hi>Sam.</hi> Coll. <hi>Mancel,</hi> &amp;c. to ſing and chant them out in every place they came in. We very well underſtanding one way (a ſure one too) to deſtroy a Prince, is, to render Him ridicu<g ref="char:EOLhyphen"/>lous, and little in the Eyes of His People.</p>
+            <p>All theſe projects, were backt with one more dangerous and dreadful, our late <hi>Aſſociation;</hi> this was our <hi>True Protestant-Flail,</hi> the Maſter-piece, of all our hopes.</p>
+            <p>
+               <hi>London</hi> and <hi>Middleſex</hi> were certain Sanctuaries for any <hi>True Protestant Traytor.</hi> The <hi>Sheriffs</hi> were my Slaves, and their packt <hi>Juries</hi> my Vaſſals: Treaſon eſcaped Scot-free, and was eſteemed a Cardinal virtue by every <hi>True Proteſtant Diſsenter.</hi> All <hi>Loyal Men</hi> were called <hi>Papists,</hi> and all <hi>Miniſters</hi> of <hi>State Pritectors</hi> of <hi>Popery-Juries</hi> would not ſee light at noon-day, and in ſpight of <hi>Magna Charta,</hi> damn'd up the Sacred Streams of Juſtice. With what Face will thoſe baſe Recreants to com<g ref="char:EOLhyphen"/>mon ſence, &amp; the Sacrament of an Oath, who fixed an <hi>Ignoramus</hi> upon my <hi>Aſſociation,</hi> one day appear at a Barr, and hear the dreadful <hi>Statute</hi> of <hi>Edward</hi> the <hi>Firſt</hi> read to them? Or how can thoſe wilful Sots, thoſe <hi>Antipodes</hi> to Reaſon and prudence, ever attone for their Folly and Madneſs, who endeavoured by Seditious Arts and Re<g ref="char:EOLhyphen"/>bellious Tumults, inſtead of two honeſt <hi>Engliſh-men,</hi> to ſet up two ſtrange Calvini<g ref="char:EOLhyphen"/>ſtical <hi>Walloons</hi> for <hi>Sheriffs</hi> of <hi>London</hi> and <hi>Middleſex?</hi> Or canſt thou but expect Ju<g ref="char:EOLhyphen"/>ſtice will catch thee by the crown, and thy <hi>Buggeroons</hi> by the back, who by thy command in all thoſe Ryots diſpence thy Bottles to the rude enraged Rabble to inſence them up to commit Murthers on the King's Liege-people?</p>
+            <p>I leave thee to the Horror thou beareſt in thy own Breaſt; for a wicked perſon is always in pain. He either practiceth the Evil he hath projected, or projects to avoid the Evil he hath deſerved. Adieu.</p>
+            <closer>
+               <dateline>Amſterdam <date>January 17th. <hi>Stilo novo.</hi> 1683.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>R. H.</hi> Anno Domjni, <hi>1683</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
